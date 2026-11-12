@@ -1,17 +1,65 @@
-Ismael, tua nota ficou 3,00 de 4,00 no primeiro momento. Ainda tem a avaliação prática, que vale 1 ponto, então a nota final do momento sai depois dela.
+# Motivo da nota: Ismael
 
-Aulas: 2,00 de 2,00. Cada aula vale 0,40, e aula incompleta ou que não abre vale metade.
+Ismael, tua nota ficou **3,00 de 4,00** no primeiro momento. Ainda tem a avaliação prática, que vale 1 ponto, então a nota final do momento sai depois dela.
 
-Aula 01 (12 exercícios de JavaScript moderno: map, filter, desestruturação, função de seta, spread e três respostas escritas): os 12 estão em js-moderno-ismael.js, incluindo as três respostas escritas. Valeu 0,40.
+| Parte | Nota |
+|---|---|
+| Aulas 01 a 05 | 2,00 de 2,00 |
+| Atividade da Aula 05 | 0,00 de 1,00 |
+| Caderno | 1,00 de 1,00 |
 
-Aula 02 (10 perguntas sobre Promise e async/await, parte em texto e parte em código): as 10 estão em promises-async-ismae.js. Valeu 0,40.
+Cada aula vale 0,40; aula incompleta ou que não abre vale 0,20; sem entrega vale 0,00. Não houve desconto por cópia.
 
-Aula 03 (lista de tarefas em JavaScript puro, com contador, campo, botão Adicionar e a função desenhar(), mais os experimentos e o registro): o aula03/index.html abre e funciona, com contador, campo, botão e desenhar(). Tu também tens a tua própria versão no repositório pessoal (Inova-o_Ismael, de 02/10), que igualmente funciona. Não achei o registro de 3 linhas, mas o laboratório rodando fecha a aula. Valeu 0,40.
+## Aula 01: JavaScript moderno (0,40 de 0,40)
 
-Aula 04 (React por CDN com App, Cabecalho, três Cartao e uma Lista com map e key): o aula04/index.html abre e mostra o cabeçalho, a lista com map e key e os três cartões. Valeu 0,40.
+Arquivos: `ismael/estudos/js-moderno-ismael.js` (06/11) e `aula01.js` no teu repositório pessoal
 
-Aula 05 (chaves no JSX, ternário e className): a página usa {projeto}, ternário e className, e o aula05/Tela-Da-Loja.js traz a tela da loja em JSX. Valeu 0,40.
+| Item | Situação | Custo |
+|---|---|---|
+| 1 a 12, incluindo as respostas escritas 3, 10 e 11 | Todos presentes | 0 |
 
-Atividade da Aula 05 (a tela do grupo em componentes): 0,00 de 1,00. O pedido era um componente teu, com props, commit teu e um registro de 3 linhas. Tuas entregas são todas de 06/11 e são as cinco aulas. Não encontrei nada da atividade da tela em componentes, então ficou sem entrega.
+## Aula 02: Promise e async/await (0,40 de 0,40)
 
-Caderno: 1,00 de 1,00. Entregue completo.
+Arquivos: `ismael/estudos/promises-async-ismae.js` e `aula02.js` no repositório pessoal
+
+| Item | Situação | Custo |
+|---|---|---|
+| 1 a 10 | Todas respondidas | 0 |
+
+## Aula 03: lista em JavaScript puro (0,40 de 0,40)
+
+Arquivos: `ismael/estudos/aula03/index.html` e `Inova-o_Ismael/Aula03.html` (02/10, teu repositório pessoal)
+
+| Item | Situação | Custo |
+|---|---|---|
+| Contador, campo, botão Adicionar, `desenhar()` | Funcionam nas duas versões | 0 |
+| Registro de 3 linhas | Não encontrei | 0 (o laboratório funcionando fecha a aula) |
+
+## Aula 04: React por CDN (0,40 de 0,40)
+
+Arquivo: `ismael/estudos/aula04/index.html`
+
+| Item | Situação | Custo |
+|---|---|---|
+| App, Cabecalho, três Cartao, Lista com map e key | Página abre e renderiza | 0 |
+
+## Aula 05: chaves, ternário e className (0,40 de 0,40)
+
+Arquivos: `ismael/estudos/aula04/index.html` e `ismael/estudos/aula05/Tela-Da-Loja.js`
+
+| Item | Situação | Custo |
+|---|---|---|
+| `{projeto}`, ternário, className | Presentes | 0 |
+| Tela da loja em JSX | Presente | 0 |
+
+## Atividade da Aula 05: tela do grupo em componentes (0,00 de 1,00)
+
+| Exigência | Situação | Custo |
+|---|---|---|
+| Componente teu com props, commit próprio, `// MEU COMPONENTE`, página funcionando e registro de 3 linhas | Não encontrei. Tudo que tu mandaste é de 06/11 e são as cinco aulas. Sem entrega | -1,00 |
+
+Para a prática: fazer um componente teu (por exemplo um `Cartao` com props) na tela do grupo, marcar com `// MEU COMPONENTE` e escrever o registro de 3 linhas.
+
+## Caderno (1,00 de 1,00)
+
+Entregue completo.
